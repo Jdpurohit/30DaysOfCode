@@ -9,15 +9,12 @@
 **Link to work:** [Count number of bits to be flipped to convert A to B](http://www.example.com)
 
 
-### Day 1: June 13, 2019 Monday
+### Day 1: June 13, 2019 Thursday
 
 **Today's Progress**: I've gone through an tutorial which talks about markdown and I practically created an sample file using all different style element.
 
-**Thoughts** 
+**Thoughts** I have learned markdown and would be exploring it further.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-
 
 ---
