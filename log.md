@@ -6,7 +6,7 @@
 
 **Thoughts:** It is fun working with git and github. I loved it.
 
-**Link to work:** [Count number of bits to be flipped to convert A to B](http://www.example.com)
+**Link to work:** [Count number of bits to be flipped to convert A to B](cp/day1.cpp)
 
 
 ### Day 1: June 13, 2019 Thursday
@@ -15,6 +15,6 @@
 
 **Thoughts** I have learned markdown and would be exploring it further.
 
-**Link(s) to work**
+**Link to work**
 
 ---
