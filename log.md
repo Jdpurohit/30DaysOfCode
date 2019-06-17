@@ -17,4 +17,13 @@
 
 **Link to work**
 
+
+### Day 2-4: June 14-16, 2019 
+
+**Today's Progress**: I've gone through visual design section under responsive web design @freecodecamp. I have completed it along with practising all the code assignment.
+
+**Thoughts** Here, I have learned how animation could be done using CSS and make a better user experience.
+
+**Link to work**
+
 ---
